@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+*@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
 
 html, body {
@@ -8,7 +8,10 @@ html, body {
   color: #222;
 }
 
+.form-main {
 
+  width: 50%;
+  margin-top: 4rem;
 
 
 }
@@ -73,8 +76,8 @@ html, body {
 }
 
 .welcome {
-  width: 100%;
-  margin: 0 auto;
+  width: 75%;
+  margin: auto;
   padding-top: 2rem;
 }
 
@@ -222,8 +225,6 @@ figure {
 
 
 
-
-
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
@@ -248,3 +249,4 @@ Extra (xl) large devices (large desktops, 1200px and up)
 
 
 
+*/*/*/
